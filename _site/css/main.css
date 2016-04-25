@@ -323,18 +323,6 @@ a.subtitle:hover {
   display: block;
   font-size: 42px; }
 
-/** Poem formatting ********************************************/
-.poem-title {
-  font-size: 24px;
-  letter-spacing: -1px;
-  line-height: 1; }
-  @media screen and (max-width: 800px) {
-    .poem-title {
-      font-size: 16px; } }
-
-/** 
- * Portfolio grid **********************************************************
-*/
 /** 
  * Portfolio pages **********************************************************
 */
@@ -439,9 +427,21 @@ a.linked-img img {
 a.linked-img:hover img {
   opacity: 0.5; }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
   .grid-item {
-    width: 100%; } }
+    width: 100%;
+    margin-bottom: 300px; }
+
+  .thumbnail {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    float: left;
+    object-fit: cover;
+    padding-bottom: 20px; }
+
+  .project-title {
+    line-height: 2em; } }
 img.profile-photo {
   border-radius: 50%; }
 

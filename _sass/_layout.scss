@@ -249,38 +249,6 @@ display: block;
 font-size: 42px;
 }
 
-/** Poem formatting ********************************************/
-.poem-title {
-font-size: 24px;
-letter-spacing: -1px;
-line-height: 1;
-@include media-query($on-laptop) {
-font-size: 16px;
-    }
-}
-
-
-/** 
- * Portfolio grid **********************************************************
-*/
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-//.clearfix:before,
-//.clearfix:after {
-//content: " ";
-//display: table;
-//}
-//.clearfix:after {
-//clear: both;
-//}
-//.project {
-//width: 33.33%;
-//height: 250px;
-//float: left;
-//vertical-align: middle;
-//box-sizing: border-box;
-//padding: 10px;
-//}
 
 /** 
  * Portfolio pages **********************************************************
@@ -408,13 +376,26 @@ a.linked-img:hover img {
 .thumbnail img {
 //    width: 100%;
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
     .grid-item {
         width: 100%;
+//        height: 600px;
+        margin-bottom: 300px
+        
     }
-//    .thumbnail img{
-//        width: 190px;
-//    }
+    .thumbnail {
+//        height: 300px;
+            position: relative;
+width: 100%;
+height: 400px;
+float: left;
+object-fit: cover;
+        padding-bottom: 20px;
+    }
+    
+    .project-title {
+        line-height: 2em;
+    }
 }
 
 img.profile-photo {

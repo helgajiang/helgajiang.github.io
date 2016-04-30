@@ -9,7 +9,7 @@ Role: Designer
 
 This was one of the design projects I took on during my time in the Human-Computer Interaction Lab at University of Waterloo. I was prompted to design a Project Builder -- an interface for researchers and scientists to manage their research projects on the <a href="https://www.crowdcurio.com/">CrowdCurio</a> platform.
 
-Each research project is divided into three sections: Project Details (general information about the project), Curios (these are research questions and curiosity-driven prompts), and Datasets. I was given a text file with the required fields and was given full freedom in the visual design and style.
+Each research project is divided into three sections: Project Details (general information about the project), Curios (these are research questions and curiosity-driven prompts), and Datasets. I was given a text file with the required fields and had full freedom in the visual design and style.
 
 Here are the resulting mockups after a few iterations of working back and forth with the team.
 

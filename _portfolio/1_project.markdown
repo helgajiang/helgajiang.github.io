@@ -7,12 +7,12 @@ img: /img/portfolio-pfc-thumb.png
 
 200,000+ Subscribers
 <br/>
-11.1 Million Video Views
+12.1 Million Video Views
 <br/>
 500,000+ Monthly Views 
 <br/>
 
-<a href="https://www.youtube.com/user/puddingfishcakes" alt="PuddingFishCakes on YouTube">PuddingFishCakes is a YouTube channel</a> dedicated to the craft of polymer clay sculpting, featuring tutorials and DIY craft projects. The channel has organically grown a 180,000+ subscriber audience with over 10 million video views to date. I wear many hats, including filming, photographing, video editing, Etsy-selling, social-media posting, designing, and of course, polymer clay sculpting. 
+<a href="https://www.youtube.com/user/puddingfishcakes" alt="PuddingFishCakes on YouTube">PuddingFishCakes is a YouTube channel</a> dedicated to the craft of polymer clay sculpting, featuring tutorials and DIY craft projects. The channel has organically grown a 200,000+ subscriber audience with over 12 million video views to date. I wear many hats, including filming, photographing, video editing, Etsy-selling, social-media posting, designing, and of course, polymer clay sculpting. 
 <br/>
 
 <div class="img_row no-caption">
@@ -22,6 +22,8 @@ img: /img/portfolio-pfc-thumb.png
 </div>
 
 PuddingFishCakes started as a creative outlet for me back in 2011 when I was in high school. I’ve always gravitated towards anything small and cute, and loved to bring things to life. I soon became obsessed with polymer clay and joined a small community on YouTube for sculptors.
+
+<iframe src="//giphy.com/embed/e37pVSdh6DYEo" width="400" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Since then, that community has grown to numbers I could have never imagined. I've even been lucky enough to work with and produce content for many companies and organizations, most recently, <a href="https://www.youtube.com/user/DreamworksAnimation">DreamWorksTV</a>, reaching a 1.5 million subscriber audience. 
 Other notable collaborations include <a href="https://gemr.com/">Gemr</a>, <a href="https://takeandmake.co/">Take&amp;Make</a>, and <a href="http://www.aminoapps.com/get/crafty/">Amino Apps</a>.

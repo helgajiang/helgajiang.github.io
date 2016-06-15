@@ -9,7 +9,7 @@ permalink: /about/
 Hi there!
 <br/>
 <br/>
-I'm a Computer Science (HCI Option) student with a Fine Arts Studio Minor at the <a href="https://cs.uwaterloo.ca/" target="_blank">University of Waterloo</a>. I'm also a research assistant in the HCI Research Lab.
+I'm a Computer Science student with a Fine Arts Studio Minor at the <a href="https://cs.uwaterloo.ca/" target="_blank">University of Waterloo</a>. I'm also an undergraduate research assistant in the <a href="http://hci.uwaterloo.ca/">HCI Research Lab</a>.
 <br/>  
 I'm a designer and developer obsessed with polymer clay (I run a <a class="link" href="https://www.youtube.com/user/puddingfishcakes" target="_blank">YouTube channel</a> dedicated to the craft and <a class="link" href="http://www.goodreads.com/book/show/21944928-clay-charm-magic" target="_blank">wrote a book</a> about it too!), fascinated with typography, and captivated by code.
 <br/>

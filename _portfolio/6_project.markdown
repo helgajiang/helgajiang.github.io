@@ -1,41 +1,32 @@
 ---
 layout: post
-title: Divers4Oceanography
-description: A crowdsourcing platform for divers
-img: /img/portfolio-d4o-thumb.png
+title: Typewriter Girl
+description: Game for crowdsourcing Victorian handlettered transcriptions
+img: /img/portfolio-typewriter-thumb.png
 ---
 
-Role: Designer and Front End Developer
-<br/>
+Role: Designer, Illustrator, and Co-Developer
 
-Divers4Oceanography is a crowdsourcing citizen science project that collects ocean temperatures from divers around the world to be made available to scientists and researchers who work in marine biology, fisheries, conservation, and climate change. Learn more about the project <a href="http://www.whoi.edu/oceanus/v2/viewArticle/preview.do?id=227889">here</a>.
+Typewriter Girl is a curiosity-driven crowdsourcing research project. In the Typewriter Girl game, each player adopts the role of a 19th century typewriter girl, who earns a living by transcribing a series of Victorian hand-written letters. The player is given a Victorian hand-written letter to transcribe while being revealed a story about the character.
 
-This was one of the design projects I took on during my time in the Human-Computer Interaction Lab at University of Waterloo. I was responsible for designing and building the first prototype.
+Collaborators: <a href="http://edithlaw.ca/">Dr. Edith Law</a>, <a href="http://tiasauwcs10.ca/">Tiasa Mondol</a>
 
-Tools used: Sketch, HTML, CSS (including <a href="http://materializecss.com/">MaterializeCSS</a>), and Javascript.
-
-Here are the resulting mockups:
-<br/>
-<br/>
-<img class="col three no-padding border" src="{{ site.baseurl }}/img/portfolio-d4o-0.png" alt="" title=""/>
-<div class="col three caption">
-    Colour palette.
+<div class="img_row typewriter border">
+	<img class="col one border no-padding" src="{{ site.baseurl }}/img/portfolio-typewriter-1.png" alt="" title="example image"/>
+    <img class="col one border no-padding" src="{{ site.baseurl }}/img/portfolio-typewriter-2.png" alt="" title="example image"/>
+    <img class="col one no-padding border" src="{{ site.baseurl }}/img/portfolio-typewriter-3.png" alt="" title="example image"/>
 </div>
-<img class="col three no-padding border" src="{{ site.baseurl }}/img/portfolio-d4o-1.png" alt="" title=""/>
 <div class="col three caption">
-    Dive data submission.
+	Hand-drawn illustrations.
 </div>
-<img class="col three no-padding border" src="{{ site.baseurl }}/img/portfolio-d4o-2.png" alt="" title=""/>
+	
+<img class="col three no-padding border" src="{{ site.baseurl }}/img/portfolio-typewriter-6.png" alt="" title="example image"/>
 <div class="col three caption">
-    View of the user's latest dives.
+	Main view of the game. 
 </div>
-<img class="col three no-padding border" src="{{ site.baseurl }}/img/portfolio-d4o-3.png" alt="" title=""/>
+<img class="col three no-padding border" src="{{ site.baseurl }}/img/portfolio-typewriter-7.png" alt="" title="example image"/>
 <div class="col three caption">
-    View stats of other dive sites.
-</div>
-<img class="col three no-padding border" src="{{ site.baseurl }}/img/portfolio-d4o-4.png" alt="" title=""/>
-<div class="col three caption">
-    An example line graph depicting temperatures of a dive site overtime.
+	View of the top panel narrative. The player can move onto the next stage in the story after reaching 100% progress on their transcription.
 </div>
 
 

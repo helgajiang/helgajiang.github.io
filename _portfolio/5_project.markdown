@@ -1,33 +1,23 @@
 ---
 layout: post
-title: Typewriter Girl
-description: Game for crowdsourcing Victorian handlettered transcriptions
-img: /img/portfolio-typewriter-thumb.png
+title: Women in Computer Science
+description: Marketing Director
+img: /img/portfolio-wics-thumb.png
 ---
 
-Role: Designer, Illustrator, and Co-Developer
+Role: Marketing Director
 
-Typewriter Girl is a curiosity-driven crowdsourcing research project. In the Typewriter Girl game, each player adopts the role of a 19th century typewriter girl, who earns a living by transcribing a series of Victorian hand-written letters. The player is given a Victorian hand-written letter to transcribe while being revealed a story about the character.
+As Marketing Director of the <a href="http://wics.uwaterloo.ca/">Women in Computer Science Undergraduate Committee</a> at the University of Waterloo, I make posters and Facebook event banners for our educational outreach and events.
 
-Collaborators: <a href="http://edithlaw.ca/">Dr. Edith Law</a>, <a href="http://tiasauwcs10.ca/">Tiasa Mondol</a>
+Here are some of my favourites:
 
-<div class="img_row typewriter border">
-	<img class="col one border no-padding" src="{{ site.baseurl }}/img/portfolio-typewriter-1.png" alt="" title="example image"/>
-    <img class="col one border no-padding" src="{{ site.baseurl }}/img/portfolio-typewriter-2.png" alt="" title="example image"/>
-    <img class="col one no-padding border" src="{{ site.baseurl }}/img/portfolio-typewriter-3.png" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Hand-drawn illustrations.
-</div>
-	
-<img class="col three no-padding border" src="{{ site.baseurl }}/img/portfolio-typewriter-6.png" alt="" title="example image"/>
-<div class="col three caption">
-	Main view of the game. 
-</div>
-<img class="col three no-padding border" src="{{ site.baseurl }}/img/portfolio-typewriter-7.png" alt="" title="example image"/>
-<div class="col three caption">
-	View of the top panel narrative. The player can move onto the next stage in the story after reaching 100% progress on their transcription.
-</div>
+<img class="half-width" src="{{ site.baseurl }}/img/portfolio-wics-6.png" alt="" title=""/>
+<img class="half-width right" src="{{ site.baseurl }}/img/portfolio-wics-4.jpg" alt="" title=""/>
+<img class="full-width" src="{{ site.baseurl }}/img/portfolio-wics-1.png" alt="" title=""/>
+<img class="full-width" src="{{ site.baseurl }}/img/portfolio-wics-2.png" alt="" title=""/>
+<img class="full-width" src="{{ site.baseurl }}/img/portfolio-wics-3.png" alt="" title=""/>
+<img class="full-width" src="{{ site.baseurl }}/img/portfolio-wics-5.png" alt="" title=""/>
+<img class="full-width" src="{{ site.baseurl }}/img/portfolio-wics-7.png" alt="" title=""/>
 
 
 

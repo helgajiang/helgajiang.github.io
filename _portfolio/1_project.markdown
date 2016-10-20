@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PuddingFishCakes
-description: YouTube channel with 200K+ subscribers
+description: YouTube channel with 240K+ subscribers
 img: /img/portfolio-pfc-thumb.png
 ---
 

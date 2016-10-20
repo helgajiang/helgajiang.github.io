@@ -5,9 +5,9 @@ description: YouTube channel with 240K+ subscribers
 img: /img/portfolio-pfc-thumb.png
 ---
 
-230,000+ Subscribers
+240,000+ Subscribers
 <br/>
-13.8 Million Video Views
+15.0 Million Video Views
 <br/>
 500,000+ Monthly Views 
 <br/>

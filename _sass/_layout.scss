@@ -5,7 +5,7 @@ a.subtitle {
     color: $text-color;
 }
 a.subtitle:hover {
-    color: $yellow;
+    color: $pink;
 }
 
 .home body {
@@ -48,7 +48,7 @@ a.subtitle:hover {
         }
     }
     .page-link:hover{
-        color: $yellow;
+        color: $pink;
     }
     @include media-query($on-palm) {
         position: fixed;
@@ -157,7 +157,7 @@ margin-bottom: $vertical-spacing-unit;
 
 }
 .contacticon a:hover {
-    color: $yellow;
+    color: $pink;
 }
 
 .envelope {

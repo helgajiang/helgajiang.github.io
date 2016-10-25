@@ -31,12 +31,13 @@ $caption_color: #aaa;
 //$green: #11D68B;
 //$lime_green: #B7D12A;
 //$purple: #B509AC;
+$pink: #C71E61;
 $yellow: #F7CA18;
 
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
-$link-color: #680865;
+$link-color: $pink;
 
 /* Set theme color *************************/
 $theme-color: #fff;

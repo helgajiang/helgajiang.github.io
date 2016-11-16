@@ -13,7 +13,7 @@ img: /img/daily_ui_thumb.png
 <br/>
 <img class="col three no-padding border" src="{{ site.baseurl }}/img/daily_ui_instructions.png" alt="" title=""/>
 <div class="col three caption">
-    The prompt was to design a recipe, but I twisted it into a video tutorial instructions page. This would work for video recipes too (with ingredients instead of materials)! I would have used a progress bar for the difficulty level instead if stars, as the latter are more associated with ratings.
+    The prompt was to design a recipe, but I twisted it into a video tutorial instructions page. This would work for video recipes too (with ingredients instead of materials)! I would have used a progress bar for the difficulty level instead of stars, as the latter are more associated with ratings.
     <br/>
 </div>
 <img class="col three no-padding border" src="{{ site.baseurl }}/img/daily_ui_pricing.png" alt="" title=""/>

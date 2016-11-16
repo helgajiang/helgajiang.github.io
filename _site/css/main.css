@@ -382,11 +382,15 @@ a.subtitle:hover {
 
 .caption {
   height: 100%;
-  color: #aaa;
+  color: #666;
+  line-height: 1.5em;
   text-align: center;
   vertical-align: middle;
-  font-size: 12px;
-  margin-bottom: 15px; }
+  font-size: 0.8em;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  padding-left: 35px;
+  padding-right: 35px; }
 
 .thumbnail {
   width: 100%;

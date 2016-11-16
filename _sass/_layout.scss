@@ -261,11 +261,15 @@ width: 100%;
 
 .caption{
 height: 100%;
-color: $caption_color;
+color: #666;
+    line-height: 1.5em;
 text-align: center;
 vertical-align: middle;
-font-size: $caption_font_size;
-    margin-bottom: 15px;
+font-size: 0.8em;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
 }
 
 

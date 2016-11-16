@@ -1,18 +1,18 @@
 ---
 layout: post
 title: PuddingFishCakes
-description: YouTube channel with 240K+ subscribers
+description: YouTube channel with 250K+ subscribers
 img: /img/portfolio-pfc-thumb.png
 ---
 
-240,000+ Subscribers
+250,000+ Subscribers
 <br/>
 15.0 Million Video Views
 <br/>
 500,000+ Monthly Views 
 <br/>
 
-<a href="https://www.youtube.com/user/puddingfishcakes" alt="PuddingFishCakes on YouTube">PuddingFishCakes is a YouTube channel</a> dedicated to the craft of polymer clay sculpting, featuring tutorials and DIY craft projects. The channel has organically grown a 230,000+ subscriber audience with over 13 million video views to date. I wear many hats, including filming, photographing, video editing, Etsy-selling, social-media posting, designing, and of course, polymer clay sculpting. 
+<a href="https://www.youtube.com/user/puddingfishcakes" alt="PuddingFishCakes on YouTube">PuddingFishCakes is a YouTube channel</a> dedicated to the craft of polymer clay sculpting, featuring tutorials and DIY craft projects. The channel has organically grown a 250,000+ subscriber audience with over 13 million video views to date. I wear many hats, including filming, photographing, video editing, Etsy-selling, social-media posting, designing, and of course, polymer clay sculpting. 
 <br/>
 
 <div class="img_row no-caption">

@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,100,300,900,700);
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Garamond");
 /**
  * Reset some basic elements
  */
@@ -8,6 +9,16 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
+
+h1 {
+  font-family: 'Cormorant Garamond', serif; }
+
+p.subtitle {
+  text-transform: uppercase;
+  font-size: 0.6em;
+  font-weight: 600;
+  letter-spacing: 4px;
+  padding-top: 7px; }
 
 /** Variables **********************************************/
 /* portfolio tinkering */

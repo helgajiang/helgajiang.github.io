@@ -460,7 +460,8 @@ a.linked-img:hover img {
     line-height: 2em; } }
 img.profile-photo {
   border-radius: 50%;
-  width: 200px; }
+  width: 200px;
+  margin-left: 30px; }
 
 img.full-width {
   width: 100%; }

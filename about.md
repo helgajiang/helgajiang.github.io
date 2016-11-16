@@ -17,5 +17,4 @@ When I'm not designing, I run a <a class="link" href="https://www.youtube.com/us
 Check out my <a class="link" href="{{ site.baseurl }}/portfolio">portfolio</a> and <a class="link" href="{{ site.baseurl }}/resume.pdf" target="_blank">r&eacute;sum&eacute;</a>.
 
 
-<hr/>
 <br/>

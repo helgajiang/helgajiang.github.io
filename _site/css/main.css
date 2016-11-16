@@ -356,9 +356,6 @@ a.subtitle:hover {
 .img_row.no-caption {
   margin-bottom: 20px; }
 
-img.border {
-  border: 1px solid rgba(0, 0, 0, 0.2); }
-
 .col {
   position: relative;
   width: 100%;

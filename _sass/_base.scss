@@ -139,10 +139,17 @@ a {
     }
     */
     &:hover {
-        color: #F7CA18; //$theme-color;
-        
+//        color: #F7CA18; //$theme-color;
+        opacity: 0.5;
+        transition: all 0.2s;
         text-decoration: none;
     }
+}
+a.page-link:hover {
+    opacity:1;
+}
+.thumbnail a:hover {
+    opacity: 1;
 }
 //
 //article a {

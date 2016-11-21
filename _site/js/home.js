@@ -38,13 +38,13 @@ stats.domElement.style.top = '0px';
 			context = canvas.getContext('2d'),
 			defaults = {
 				star: {
-					color: 'rgba(2, 2, 2, .1)',
+					color: 'rgba(2, 2, 2, .08)',
 					width: 1
 				},
-				line: {
-					color: 'rgba(2, 2, 2, .1)',
-					width: 0.2
-				},
+//				line: {
+//					color: 'rgba(2, 2, 2, .1)',
+//					width: 0.2
+//				},
 				position: {
 					x: 0, // This value will be overwritten at startup
 					y: 0 // This value will be overwritten at startup
@@ -95,40 +95,40 @@ stats.domElement.style.top = '0px';
 				}
 			},
 
-			line: function(){
-				var length = config.length,
-					iStar,
-					jStar,
-					i,
-					j;
-
-				for (i = 0; i < length; i++) {
-					for (j = 0; j < length; j++) {
-						iStar = config.stars[i];
-						jStar = config.stars[j];
-
-						if (
-							(iStar.x - jStar.x) < config.distance &&
-							(iStar.y - jStar.y) < config.distance &&
-							(iStar.x - jStar.x) > - config.distance &&
-							(iStar.y - jStar.y) > - config.distance
-						) {
-							if (
-								(iStar.x - config.position.x) < config.radius &&
-								(iStar.y - config.position.y) < config.radius &&
-								(iStar.x - config.position.x) > - config.radius &&
-								(iStar.y - config.position.y) > - config.radius
-							) {
-								context.beginPath();
-								context.moveTo(iStar.x, iStar.y);
-								context.lineTo(jStar.x, jStar.y);
-								context.stroke();
-								context.closePath();
-							}
-						}
-					}
-				}
-			}
+//			line: function(){
+//				var length = config.length,
+//					iStar,
+//					jStar,
+//					i,
+//					j;
+//
+//				for (i = 0; i < length; i++) {
+//					for (j = 0; j < length; j++) {
+//						iStar = config.stars[i];
+//						jStar = config.stars[j];
+//
+//						if (
+//							(iStar.x - jStar.x) < config.distance &&
+//							(iStar.y - jStar.y) < config.distance &&
+//							(iStar.x - jStar.x) > - config.distance &&
+//							(iStar.y - jStar.y) > - config.distance
+//						) {
+//							if (
+//								(iStar.x - config.position.x) < config.radius &&
+//								(iStar.y - config.position.y) < config.radius &&
+//								(iStar.x - config.position.x) > - config.radius &&
+//								(iStar.y - config.position.y) > - config.radius
+//							) {
+//								context.beginPath();
+//								context.moveTo(iStar.x, iStar.y);
+//								context.lineTo(jStar.x, jStar.y);
+//								context.stroke();
+//								context.closePath();
+//							}
+//						}
+//					}
+//				}
+//			}
 		};
 
 		this.createStars = function () {
@@ -145,7 +145,7 @@ stats.domElement.style.top = '0px';
 				star.create();
 			}
 
-			star.line();
+//			star.line();
 			star.animate();
 		};
 
@@ -156,8 +156,8 @@ stats.domElement.style.top = '0px';
 
 		this.setContext = function () {
 			context.fillStyle = config.star.color;
-			context.strokeStyle = config.line.color;
-			context.lineWidth = config.line.width;
+//			context.strokeStyle = config.line.color;
+//			context.lineWidth = config.line.width;
 		};
 
 		this.setInitialPosition = function () {
@@ -208,9 +208,9 @@ $('canvas').constellation({
 	star: {
 		width: 3
 	},
-	line: {
-		color: 'rgba(2, 2, 2, .1)'
-	},
+//	line: {
+//		color: 'rgba(2, 2, 2, .1)'
+//	},
 	radius: 250
 });
     

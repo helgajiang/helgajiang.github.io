@@ -13,6 +13,9 @@ Here are some graphic design, handlettering, and illustration work I’ve done, 
 <img class="col three" src="{{ site.baseurl }}/img/portfolio-graphic-2.png" alt="Donuts" title="Donuts"/>
 <img class="col three" src="{{ site.baseurl }}/img/portfolio-graphic-8.png" alt="Werkdesk" title="Werkdesk"/>
 
+<img class="col two" src="{{ site.baseurl }}/img/journal1.png" alt="Journal front" title="Werkdesk"/>
+<img class="col two" src="{{ site.baseurl }}/img/journal2.png" alt="Journal back" title="Werkdesk"/>
+
 <img class="col three" src="{{ site.baseurl }}/img/portfolio-graphic-3.png" alt="Space Icons" title="Space Icons"/>
 
 <img class="col three" src="{{ site.baseurl }}/img/portfolio-graphic-1.png" alt="Low-Poly Goose" title="Low-Poly Goose"/>

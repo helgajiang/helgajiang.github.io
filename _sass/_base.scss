@@ -1,5 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,100,300,900,700);
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+//@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+@font-face {
+    font-family: 'HalisR';
+    font-weight: normal;
+    font-style: normal;
+    src: url("/fonts/HalisR-Book.otf") format("opentype");
+}
+@font-face {
+    font-family: 'HalisR';
+    font-weight: bold;
+    font-style: normal;
+    src: url("/fonts/HalisR-Bold.otf") format("opentype");
+}
 
 /**
  * Reset some basic elements
@@ -11,8 +23,12 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-h1 {
-    font-family: 'Cormorant Garamond', serif;
+h1, h2 {
+    font-family: 'HalisR', Lato, serif;
+    font-weight: bold;
+    font-style:normal;
+    color: #C29DAA;
+    line-height: 2em;
 }
 p.subtitle {
     text-transform: uppercase;
@@ -24,8 +40,9 @@ p.subtitle {
 
 
 
+
 /** Variables **********************************************/
-$base-font-family:              'Lato', sans-serif;
+$base-font-family:              'HalisR', sans-serif;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
@@ -38,13 +55,7 @@ $caption_font_size: 12px;
 $caption_color: #aaa;
 
 /* COLORS  */
-//$red:  #000;
-//$orange: #F29105;
-//$blue: #2698BA;
-//$green: #11D68B;
-//$lime_green: #B7D12A;
-//$purple: #B509AC;
-$pink: #C71E61;
+$pink: #C29DAA;
 $yellow: #F7CA18;
 
 $grey-color-dark: #333;   /* footer */
@@ -67,17 +78,11 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-//    background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
 html {
     background-color: $background-color;
 }
-
-//html.home {
-//    background-color: #fff;
-//}
-
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -136,7 +141,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+//    font-weight: 300;
 }
 
 
@@ -157,6 +162,10 @@ a {
         transition: all 0.2s;
         text-decoration: none;
     }
+}
+
+.Helga a.page-link{
+    display: none;
 }
 a.page-link:hover {
     opacity:1;
@@ -223,6 +232,9 @@ pre {
 /**
  * Wrapper
  */ 
+
+
+
 
 .wrapper {
     max-width: -webkit-calc(1000px - (#{$horizontal-spacing-unit} * 2));

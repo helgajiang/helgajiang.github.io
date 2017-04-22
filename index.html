@@ -1,11 +1,51 @@
 ---
-layout: home
+layout: page
 ---
-<canvas id="constellation" class="constellation"></canvas>
 <div class="header-bar">
-    
+<img class="home" src="/img/home_illustration.png">
   <h1 class="title">Helga Jiang</h1>
     <p class="subtitle">Designer</p>
 </div>
+<div class="about">
+ <h2>About</h2>
+<p>Hi there! I'm a designer and illustrator passionate about shipping meaningful experiences.
+    <br/>
+    I'm currently a Product Design Intern at <a href="https://mailchimp.com/"> MailChimp</a>. I've previously worked at <a href="https://www.shopify.ca/">Shopify</a>. </p>
 
-<canvas></canvas>
+    <p>When I'm not designing, I run a <a class="link" href="https://www.youtube.com/user/puddingfishcakes" target="_blank">YouTube channel</a> featuring polymer clay and DIY tutorials and <a class="link" href="http://www.goodreads.com/book/show/21944928-clay-charm-magic" target="_blank">wrote a book</a> about it too!</p>
+    <p>See my <a class="link" href="{{ site.baseurl }}/resume.pdf" target="_blank">r&eacute;sum&eacute;</a> and some of my work below.</p>
+    
+</div>
+
+<div class="work">
+    <h2>Work</h2>
+<div class="grid">
+
+{% for project in site.portfolio %}
+
+<div class="grid-item">
+    <div class="thumbnail">
+        <a href="{{ site.baseurl }}{{ project.url }}">
+        {% if project.img %}
+        <img class="thumbnail" src="{{ project.img }}"/>
+        {% else %}
+        <div class="thumbnail blankbox"></div>
+        {% endif %}    
+        <span>
+            <p class="project-title">{{ project.title }}</p>
+            <p class="project-desc">{{ project.description }}</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+{% endfor %}
+
+</div>
+</div>
+<div class="writing">
+    <h2>Writing</h2>
+    <a href="https://ux.shopify.com/my-experience-as-a-ux-design-intern-at-shopify-4ad46efc6d0d">My Experience as a UX Design Intern at Shopify</a>
+    <p class="date">December 21, 2016</p>
+    
+</div>

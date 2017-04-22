@@ -1,31 +1,37 @@
 ---
 layout: post
-title: Illustration
-description: Various graphic design and illustration projects
-img: /img/portfolio-graphic-thumb.png
+title: Daily UI
+description: Experimenting with various user interfaces to practice visual design
+img: /img/daily_ui_thumb.png
 ---
 
-I’m always on the lookout for graphic design and illustration inspiration and ways to improve my visual style while also broadening my skills. 
+<br/>
 
-Here are some graphic design, handlettering, and illustration work I’ve done, just for fun and practice:
+<a href="http://www.dailyui.co/">Daily UI</a> offers daily prompts to exercise my visual design skills. I don't do this every day, but whenever I get the chance, I dedicate up to 1 hour per interface. Due to the time limit, these are by no means polished and are complete experiments. Read the descriptions below for some of the UX pain points I've outlined. 
 
+<br/>
+<br/>
+<img class="col three no-padding border" src="{{ site.baseurl }}/img/daily_ui_instructions.png" alt="" title=""/>
+<div class="col three caption">
+    The prompt was to design a recipe, but I twisted it into a video tutorial instructions page. This would work for video recipes too (with ingredients instead of materials)! I would have used a progress bar for the difficulty level instead of stars, as the latter are more associated with ratings.
+    <br/>
+</div>
+<img class="col three no-padding border" src="{{ site.baseurl }}/img/daily_ui_pricing.png" alt="" title=""/>
+<div class="col three caption">
+    A pricing page. Admittedly, this screen is pretty useless from a UX perspective, and turned into more of a product page than anything else. Also, how would the hamburger menu work on the darker background?
+    <br/>
+</div>
 
-<img class="col three" src="{{ site.baseurl }}/img/portfolio-graphic-2.png" alt="Donuts" title="Donuts"/>
-<img class="col three" src="{{ site.baseurl }}/img/portfolio-graphic-8.png" alt="Werkdesk" title="Werkdesk"/>
+<img class="col three no-padding border" src="{{ site.baseurl }}/img/daily_ui_credit.png" alt="" title=""/>
+<div class="col three caption">
+    A credit card payment page. I was informed that the <b>Payment method</b> input is uneccessary, as the credit card number would reveal it automatically. What a time to be alive!
+    <br/>
+</div>
 
-<img class="col two" src="{{ site.baseurl }}/img/journal1.png" alt="Journal front" title="Werkdesk"/>
-<img class="col two" src="{{ site.baseurl }}/img/journal2.png" alt="Journal back" title="Werkdesk"/>
-
-<img class="col three" src="{{ site.baseurl }}/img/portfolio-graphic-3.png" alt="Space Icons" title="Space Icons"/>
-
-<img class="col three" src="{{ site.baseurl }}/img/portfolio-graphic-1.png" alt="Low-Poly Goose" title="Low-Poly Goose"/>
-
-<!--
-<img class="col two" src="{{ site.baseurl }}/img/portfolio-graphic-7.png" alt="Gotham Poster" title="Gotham Poster"/>
-
--->
-
-
-
+<img class="col three no-padding border" src="{{ site.baseurl }}/img/daily_ui_music.png" alt="" title=""/>
+<div class="col three caption">
+    Music player. I would have added in a shuffle and replay button, but alas, the hour was up!
+    <br/>
+</div>
 
 <br/><br/><br/>

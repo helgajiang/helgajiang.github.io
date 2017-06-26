@@ -22,15 +22,12 @@ h1, h2 {
   font-family: 'HalisR', Lato, serif;
   font-weight: bold;
   font-style: normal;
-  color: #C29DAA;
   line-height: 2em; }
 
 p.subtitle {
-  text-transform: uppercase;
-  font-size: 0.6em;
-  font-weight: 600;
-  letter-spacing: 4px;
-  padding-top: 7px; }
+  font-size: 1em;
+  font-weight: 500;
+  padding-top: 30px; }
 
 /** Variables **********************************************/
 /* portfolio tinkering */
@@ -47,11 +44,11 @@ body {
   font-size: 16px;
   line-height: 1.5em;
   font-weight: 300;
-  color: #666;
+  color: #030303;
   -webkit-text-size-adjust: 100%; }
 
 html {
-  background-color: #f9f9f9; }
+  background-color: #FEFEFE; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -97,8 +94,10 @@ li > ol {
  * Links
  */
 a {
-  color: #C29DAA;
+  color: #030303;
   text-decoration: none;
+  border-bottom: solid 2px #030303;
+  display: inline;
   /*
   &:visited {
       color: darken($brand-color, 15%); 
@@ -122,8 +121,8 @@ a.page-link:hover {
  * Blockquotes
  */
 blockquote {
-  color: #666;
-  border-left: 10px solid #ddd;
+  color: #030303;
+  border-left: 10px solid #030303;
   padding-left: 25px;
   font-size: 18px;
   font-style: italic; }
@@ -137,7 +136,7 @@ pre,
 code {
   font-size: 15px;
   border-radius: 3px;
-  background-color: #ddd; }
+  background-color: #030303; }
 
 code {
   padding: 1px 5px; }
@@ -178,17 +177,15 @@ pre {
 /**
  * Site header   **********************************************************
  */
-a.subtitle {
-  color: #666; }
-
-a.subtitle:hover {
-  color: #C29DAA; }
+.subtitle a {
+  color: #030303;
+  border-bottom: solid 2px #030303;
+  display: inline; }
 
 .Helga.site-header {
   display: none; }
 
 .site-header {
-  text-transform: uppercase;
   left: 0px;
   top: 0px;
   height: 56px;
@@ -206,16 +203,13 @@ a.subtitle:hover {
 
 .site-nav {
   font-weight: 700;
-  font-size: .8em;
-  letter-spacing: .15em;
   line-height: 56px; }
   .site-nav .page-link {
     color: rgba(0, 0, 0, 0.5);
+    border: none;
     line-height: 1.5em; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
-  .site-nav .page-link:hover {
-    color: #C29DAA; }
   @media screen and (max-width: 600px) {
     .site-nav {
       position: fixed;
@@ -228,9 +222,6 @@ a.subtitle:hover {
       .site-nav .page-link {
         display: line; } }
 
-.constellation {
-  position: absolute; }
-
 .header-bar {
   left: 0px;
   top: 0px;
@@ -238,10 +229,9 @@ a.subtitle:hover {
   font-size: 20px;
   display: block;
   width: 100%;
-  text-align: center;
   z-index: 25; }
   .header-bar h1 {
-    color: #C29DAA;
+    color: #030303;
     font-size: 50px;
     line-height: 1.2em;
     padding-top: 15px; }
@@ -295,12 +285,14 @@ a.subtitle:hover {
     margin-bottom: 40px; }
 
 .contacticon {
-  font-size: 20px;
+  font-size: 1em;
   display: block;
-  margin: 10px; }
+  margin: 50px 0px 80px 0px; }
 
 .contacticon a {
-  margin: 8px; }
+  margin: 0px 8px 0px 0px;
+  color: #030303;
+  border: none; }
 
 .contacticon a:hover {
   color: #C29DAA; }
@@ -343,7 +335,7 @@ a.subtitle:hover {
 
 .post-meta {
   font-size: 14px;
-  color: #828282;
+  color: #030303;
   margin-bottom: 0px; }
 
 .post-link {
@@ -395,7 +387,7 @@ img.home {
 
 .caption {
   height: 100%;
-  color: #666;
+  color: #030303;
   line-height: 1.5em;
   text-align: center;
   vertical-align: middle;
@@ -406,8 +398,7 @@ img.home {
   padding-right: 35px; }
 
 .thumbnail {
-  width: 100%;
-  height: 200px; }
+  width: 100%; }
 
 .grid-item {
   position: relative;
@@ -422,11 +413,11 @@ img.home {
   float: left;
   position: relative;
   width: 100%;
-  height: auto; }
+  height: auto;
+  border: none; }
 
 .thumbnail a span {
   color: black;
-  text-align: center;
   -webkit-transition: .3s ease-in-out;
   transition: .3s ease-in-out; }
 
@@ -434,26 +425,24 @@ img.home {
   display: inline-block; }
 
 .grid-item {
-  width: 46%;
-  height: 300px;
+  width: 49%;
+  height: 450px;
   float: left; }
 
 .grid-item:nth-child(even) {
   float: right; }
 
 .project-title {
-  text-transform: uppercase;
   font-weight: 600;
   font-size: 14px;
-  letter-spacing: .18em;
   margin: 0;
   margin-top: 5px;
-  color: #666; }
+  color: #030303; }
 
 .project-desc {
   line-height: 1.5em;
   font-size: 12px;
-  color: #666; }
+  color: #030303; }
 
 a.linked-img img {
   opacity: 1;

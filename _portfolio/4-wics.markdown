@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Women in Computer Science
-description: Marketing Director
-img: /img/portfolio-wics-thumb.png
+description: Design and Marketing Director
+img: /img/thumbnail-wics.png
 ---
 
-Role: Marketing Director
+Role: Design and Marketing Director
 
 As Marketing Director of the <a href="http://wics.uwaterloo.ca/">Women in Computer Science Undergraduate Committee</a> at the University of Waterloo, I make posters and Facebook event banners for our educational outreach and events.
 

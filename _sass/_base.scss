@@ -27,15 +27,13 @@ h1, h2 {
     font-family: 'HalisR', Lato, serif;
     font-weight: bold;
     font-style:normal;
-    color: #C29DAA;
+//    color: #C29DAA;
     line-height: 2em;
 }
 p.subtitle {
-    text-transform: uppercase;
-    font-size: 0.6em;
-    font-weight: 600;
-    letter-spacing: 4px;
-    padding-top: 7px;
+    font-size: 1em;
+    font-weight: 500;
+    padding-top: 30px;
 }
 
 
@@ -58,10 +56,10 @@ $caption_color: #aaa;
 $pink: #C29DAA;
 $yellow: #F7CA18;
 
-$grey-color-dark: #333;   /* footer */
-$grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     #666;
-$link-color: $pink;
+$grey-color-dark: #030303;   /* footer */
+$grey-color-light: #030303;  /* navigation bar border */
+$text-color:     #030303;
+$link-color: $text-color;
 
 /* Set theme color *************************/
 $theme-color: #fff;
@@ -151,6 +149,8 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $link-color;
     text-decoration: none;
+    border-bottom: solid 2px $text-color;
+    display: inline;
     /*
     &:visited {
         color: darken($brand-color, 15%); 
@@ -168,7 +168,7 @@ a {
     display: none;
 }
 a.page-link:hover {
-    opacity:1;
+    opacity:1;  
 }
 .thumbnail a:hover {
     opacity: 1;

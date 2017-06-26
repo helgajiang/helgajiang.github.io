@@ -1,11 +1,10 @@
 /**
  * Site header   **********************************************************
  */
-a.subtitle {
+.subtitle a {
     color: $text-color;
-}
-a.subtitle:hover {
-    color: $pink;
+    border-bottom: solid 2px $text-color;
+    display: inline;
 }
 
 .Helga.site-header {
@@ -13,7 +12,7 @@ a.subtitle:hover {
 }
 
 .site-header {
-    text-transform: uppercase;
+//    text-transform: uppercase;
 //    position:fixed;
     left:0px;
     top:0px;
@@ -34,14 +33,14 @@ a.subtitle:hover {
 }
 .site-nav {
     font-weight: 700;
-    font-size: .8em;
-    letter-spacing: .15em;
+//    font-size: .8em;
+//    letter-spacing: .15em;
 //    float: right;
     line-height: $nav-height;
 
     .page-link{
         color: rgba(0,0,0,.5);
-
+        border:none;
         line-height: $base-line-height;
         // Gaps between nav items except the first
         &:not(:first-child) {
@@ -49,7 +48,7 @@ a.subtitle:hover {
         }
     }
     .page-link:hover{
-        color: $pink;
+//        color: $pink;
     }
     @include media-query($on-palm) {
         position: fixed;
@@ -67,10 +66,6 @@ a.subtitle:hover {
     }
 }
 
-.constellation {
-    position: absolute;
-}
-
 .header-bar{
     left: 0px;
     top: 0px;
@@ -78,13 +73,13 @@ a.subtitle:hover {
     font-size: 20px;
     display: block;
     width: 100%;
-    text-align: center;
+//    text-align: center;
 //    padding-top: 25px;
 //    line-height: 3em;
     z-index: 25;
 //    padding-top: 15%;
     h1{
-        color: #C29DAA;
+        color: #030303;
         font-size:50px;
         line-height: 1.2em;
         padding-top: 15px;
@@ -151,13 +146,14 @@ margin-bottom: $vertical-spacing-unit;
     }
 }
 .contacticon {
-    font-size: 20px;
+    font-size: 1em;
     display:block;
-    margin: 10px;
+    margin: 50px 0px 80px 0px;
 }
 .contacticon a {
-    margin: 8px;
-
+    margin: 0px 8px 0px 0px;
+    color: $text-color;
+    border:none;
 }
 .contacticon a:hover {
     color: $pink;
@@ -271,7 +267,7 @@ width: 100%;
 
 .caption{
 height: 100%;
-color: #666;
+color: #030303;
     line-height: 1.5em;
 text-align: center;
 vertical-align: middle;
@@ -286,7 +282,7 @@ font-size: 0.8em;
 
 .thumbnail {
     width: 100%;
-    height: 200px;
+//    height: 200px;
 }
 .grid-item {
     position: relative;
@@ -305,11 +301,12 @@ font-size: 0.8em;
     position: relative;
     width: 100%;
     height: auto;
+    border:none;
     
 }
 .thumbnail a span {
     color: black;
-    text-align: center;
+//    text-align: center;
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
 }
@@ -320,17 +317,15 @@ font-size: 0.8em;
     display: inline-block;
 }
 .grid-item {
-  width: 46%;
-    height: 300px;
+  width: 49%;
+    height: 450px;
   float: left;
 }
 .grid-item:nth-child(even) {float: right}
 
 .project-title {
-    text-transform: uppercase;
     font-weight: 600;
     font-size: 14px;
-    letter-spacing: .18em;
     margin: 0;
     margin-top: 5px;
     color: $text-color;

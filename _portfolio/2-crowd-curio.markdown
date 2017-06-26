@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CrowdCurio
-description: A project builder for researchers to manage their research projects
-img: /img/portfolio-pb-thumb.png
+description: A project builder for researchers to manage their crowdsourcing projects
+img: /img/thumbnail-crowdcurio.png
 ---
 
 Role: Designer

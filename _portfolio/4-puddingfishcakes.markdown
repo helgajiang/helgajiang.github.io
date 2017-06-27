@@ -1,11 +1,11 @@
 ---
 layout: post
 title: PuddingFishCakes
-description: YouTube channel with 250K+ subscribers
-img: /img/portfolio-pfc-thumb.png
+description: YouTube channel with 280K+ subscribers
+img: /img/thumbnail-pfc.png
 ---
 
-250,000+ Subscribers
+280,000+ Subscribers
 <br/>
 15.0 Million Video Views
 <br/>

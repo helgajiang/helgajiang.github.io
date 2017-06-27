@@ -9,6 +9,9 @@
   font-weight: bold;
   font-style: normal;
   src: url("/fonts/HalisR-Bold.otf") format("opentype"); }
+.italics {
+  font-style: italic; }
+
 /**
  * Reset some basic elements
  */

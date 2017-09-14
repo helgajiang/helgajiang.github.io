@@ -2,7 +2,7 @@
 layout: post
 title: Illustration
 description: Various graphic design and illustration projects
-img: /img/portfolio-graphic-thumb.png
+img: /img/thumbnail-illustration.png
 ---
 
 I’m always on the lookout for graphic design and illustration inspiration and ways to improve my visual style while also broadening my skills. 

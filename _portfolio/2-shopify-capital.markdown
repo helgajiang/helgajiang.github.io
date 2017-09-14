@@ -5,7 +5,7 @@ description: Dashboard redesign for Shopify's cash advance system
 img: /img/thumbnail-shopify-capital.png
 ---
 
-<strong>Disclaimer:</strong> These thoughts are my own and do not necessarily represent those of Shopify.
+<strong>Disclaimer:</strong> These thoughts are my own and do not necessarily represent those of Shopify. This project was taken on during the Fall of 2016.
 
 <h2>What is Shopify Capital?</h2>
 

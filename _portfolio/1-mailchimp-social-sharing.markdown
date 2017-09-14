@@ -36,4 +36,4 @@ The exploration stage of the design process involved working with user researche
 
 <h3>The Solution</h3>
 
-After multiple iterations, we came to a solution. Unfortunately, the final design is not yet public, but I would love to chat about it privately. <a href="mailto:jianghelga@gmail.com">Contact me</a> if you'd like to know more!
+After multiple iterations, we came to a solution which was fully prototyped, user tested, and submitted to engineering. Unfortunately, the final design is not yet public, but I would love to chat about it privately. <a href="mailto:jianghelga@gmail.com">Contact me</a> if you'd like to know more!

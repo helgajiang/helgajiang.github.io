@@ -9,7 +9,7 @@ img: /img/thumbnail-shopify-capital.png
 
 <h2>What is Shopify Capital?</h2>
 
-<a href="https://www.shopify.com/capital">Shopify Capital</a> offers funding for merchants so they can get a head start on inventory, marketing, or anything else for their business needs. These cash advances are given as a lump sum, and as the merchant makes sales, they’ll remit to Shopify a fixed percentage of their daily sales until Shopify receives the total amount of receivables purchased. This means that if the merchant doesn’t make a sale that day, they don’t have to pay Shopify. 
+<a href="https://www.shopify.com/capital" target="_blank">Shopify Capital</a> offers funding for merchants so they can get a head start on inventory, marketing, or anything else for their business needs. These cash advances are given as a lump sum, and as the merchant makes sales, they’ll remit to Shopify a fixed percentage of their daily sales until Shopify receives the total amount of receivables purchased. This means that if the merchant doesn’t make a sale that day, they don’t have to pay Shopify. 
 
 <h2>My Role</h2>
 

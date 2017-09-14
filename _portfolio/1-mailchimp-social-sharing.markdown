@@ -7,7 +7,7 @@ img: /img/thumbnail-mailchimp-social.png
 
 <strong>Disclaimer:</strong> These thoughts are my own and do not necessarily represent those of MailChimp.
 
-During my summer internship at MailChimp, I had the opportunity to contribute to a major redesign of MailChimp's #1 most used feature -- email campaign creation. My task was to re-imagine the social share feature. 
+During my summer internship at <a href="https://mailchimp.com/" target="_blank">MailChimp</a>, I had the opportunity to contribute to a major redesign of MailChimp's #1 most used feature -- email campaign creation. My task was to re-imagine the social share feature. 
 
 <h3>The Task</h3>
 

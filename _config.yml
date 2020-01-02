@@ -4,7 +4,7 @@ email: hhjiang@uwaterloo.ca
 description: > # this means to ignore newlines until "baseurl:"
   Personal website for Helga Jiang.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://helgajiang.com/ # the base hostname & protocol for your site
+url: http://helgajiang.github.io/ # the base hostname & protocol for your site
 twitter_username: helgajiang
 github_username:  helgajiang
 
@@ -26,5 +26,3 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
-
-

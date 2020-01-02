@@ -1,61 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <script src="https://use.fontawesome.com/abe5e8bc5d.js"></script>
-    <title>a post with code</title>
-    <meta name="description" content="Personal website for Helga Jiang.
-">
-
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://localhost:4000/2015/07/15/title.html">
-    <link rel="icon" 
-      type="image/png" 
-      href="/img/favicon.png" />
-
-</head>
-
-  <body>
-
-    <header class="site-header a post with code">
-
-  <div class="wrapper">
-
-    <nav class="site-nav">
-
-      <div class="trigger">
-<!--         Helga Jiang instead of home -->
-        <a class="page-link" href="/">Back to Home</a>
-
-        
-          
-        
-          
-        
-
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">a post with code</h1>
-<!--    <p class="post-meta">July 15, 2015 â€” 08:09</p>-->
-  </header>
-
-  <article class="post-content">
-    <p>This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag:</p>
+I"ƒ	<p>This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag:</p>
 
 <p>{% highlight c++ %}  <br /> code code code <br /> {% endhighlight %}</p>
 
@@ -79,23 +22,4 @@
 	<span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
 <span class="p">}</span></code></pre></figure>
 
-
-  </article>
-
-</div>
-
-      </div>
-    </div>
-
-    <footer class="site-footer">
-
-  <div class="wrapper">
-<!--      <p>Made with <i class="fa fa-heart-o"></i>. This site is powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and hosted on <a href="https://github.com" target="_blank">Github Pages</a>.</p>-->
-  </div>
-</footer>
-
-
-  </body>
-    
-
-</html>
+:ET

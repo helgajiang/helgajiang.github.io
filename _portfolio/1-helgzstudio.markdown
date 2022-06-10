@@ -5,7 +5,7 @@ description: Small Business Owner
 img: /img/helgzstudio/thumbnail-helgzstudio.png
 ---
 
-I created <a href="https://www.helgz.com" alt="Helgz Studio" target="blank">Helgz Studio</a> in 2021 as a passion-driven microbusiness, exploring my creativity in a tactile, hands-on medium. I design contemporary slow-made ceramics that aim to bring moments of stillness into any space.
+<a href="https://www.helgz.com" alt="Helgz Studio" target="blank">Helgz Studio</a> was launched in 2021 as a passion-driven microbusiness, exploring my creativity in a tactile, hands-on medium. I design contemporary slow-made ceramics that aim to bring moments of stillness into any space.
 
 I handle all aspects of the studio, including ceramics production, design, photography, branding collateral, e-commerce, and marketing.
 

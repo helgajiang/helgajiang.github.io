@@ -1,0 +1,89 @@
+---
+layout: post
+title: Facebook / Advertiser Recommendations Framework
+description: Product Design, Design Systems, UI/UX
+img: /img/thumbnail-fb-framework.png
+---
+
+<strong>Disclaimer:</strong> These thoughts are my own and do not necessarily represent those of Facebook (Meta).
+
+During my time at Facebook (now known as Meta), I had the opportunity to work alongside a stellar team of designers and engineers. With the support of data science, user research, product management, and org directors, we built a design system for our recommendation products. This effort materialized into a set of guidelines, UI elements, customized components, and a step-by-step framework of building a recommendation.
+
+<img class="col three" src="{{ site.baseurl }}/img/facebook/fb-framework-microsite.png" alt="Facebook Recommendations Framework Microsite" title="Facebook Recommendations Framework Microsite"/>
+<div class="col three caption">
+We created a internal microsite to host our Recommendations Framework.</div>
+
+<h3>Context and Problem Space</h3>
+
+<img class="col three" src="{{ site.baseurl }}/img/facebook/fb-framework-context.png" alt="Facebook Recommendations Framework Context" title="Facebook Recommendations Framework Context"/>
+<div class="col three caption">
+Some context on the product and target user.</div>
+
+<img class="col three" src="{{ site.baseurl }}/img/facebook/auction-overlap.gif" alt="Facebook Recommendations Example Flow" title="Facebook Recommendations Example Flow"/>
+
+
+
+<!--
+<video width="320" height="240" autoplay>
+  <source src="{{ site.baseurl }}/img/facebook/auction-overlap.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+-->
+
+
+<div class="col three caption">
+An example of a recommendation flow.</div>
+
+
+<img class="col three" src="{{ site.baseurl }}/img/facebook/fb-framework-problemspace.png" alt="Facebook Recommendations Framework Problem Space" title="Facebook Recommendations Framework Problem Space"/>
+<div class="col three caption">
+An overview of the problem space.</div>
+
+
+<h3>The Process</h3>
+
+<ol>
+<li><strong>Alignment</strong> on problem space, prioritization, goals, success metrics, and deliverables: Make sure we're all on the same page and are working on the most impactful things.</li>
+<li><strong>Design sprint</strong>: Multi-day workshops tackling design explorations, based off of the prioritization.</li>
+<li><strong>Feedback rounds and refinement</strong>: Took charge in preparing presentations and leading the team through multiple reviews</li>
+<li><strong>Usability research</strong>: Developed a research plan, align on questions to be answered, prepared prototypes, and supported testing.</li>
+<li><strong>Share-out and deliver</strong>: Developed a share-out plan, which laid the foundation for building the microsite and writing accompanying notes. These resources increased visibility of our work for broader teams.
+</li>
+<li><strong>Track implementation and roll-out</strong>: Address any bugs during implementation, ensure quality, and keep track of user metrics during roll-out and launch.</li>
+</ol>
+
+Designing the system required cross-org collaboration between my team and the Ads Manager platform team. It involved multi-day workshops and design sprints. Throughout the process, I regularly set agendas, provided updates, and led discussions in weekly XFN meetings to align and unblock the team efficiently.
+
+I rapidly iterated to present multiple solutions to the team, solicited feedback from different forums (crit, reviews, etc), reviewed other team members’ designs to influence quality and identify risks, and referred to research whenever possible. When existing design components were proven to not be sufficient for our use cases, I explored and pioneered new ones. 
+
+<h3>Design Details</h3>
+
+We developed a set of guidelines, defined high-level flows, and designed reusable components. Details were built into an internal microsite with accompanying company-wide notes.
+We also updated all existing recommendation flows to the new framework, which are now live.
+
+
+<img class="col three" src="{{ site.baseurl }}/img/facebook/fb-framework-highlevel.png" alt="Facebook Recommendations Framework Screenshot" title="Facebook Recommendations Framework Screenshot"/>
+<div class="col three caption">
+Sample of high-level flows that were defined.</div>
+
+
+Along the way, my team advocated for UX improvements wherever we could. Among other components, I designed and pioneered a unique UI solution for recommendation cards that live in the Ads Manager table. This was a significant improvement to the user experience, proven through usability research and later through data, seeing a stat-sig increase in user retention. See below for details.
+
+<img class="col three explore" src="{{ site.baseurl }}/img/facebook/facebook-intablecard.png" alt="Facebook Recommendations Card" title="Facebook Recommendations Card"/>
+
+<img class="col three" src="{{ site.baseurl }}/img/facebook/fb-framework-screenshot.png" alt="Facebook Recommendations Framework Screenshot" title="Facebook Recommendations Framework Screenshot"/>
+<div class="col three caption">
+A sample of a popover card design, included as a critical component in the final framework.</div>
+
+
+<h3>The Results & Takeaways</h3>
+After the framework was complete, we saw a significant increase in productivity with integrating new recommendations into the Ads Manager platform. The updated flows also saw neutral to positive user retention.
+
+Some personal takeaways:
+<ul>
+
+<li>This was my first foray into design systems, and I enjoyed the process of categorizing user experiences, translating something complex and fragmented into a simplified system. I'd love to explore more work like this.</li>
+<li>The design workshop cadence was a breath of fresh air! Our team would spend the morning sharing what we designed the previous day, aligning on what items to do explorations on for the current day, then got to spend the rest of the day designing with minimal distractions. Rinse and repeat for the rest of the week. This resulted in deep problem solving stints and bursts of creativity. It's important for me to find ways to incorporate this type of deep work into the "exploration" stage of my design practice whenever possible.</li>
+</ul>
+
+Due to the confidential nature of internal documents, the full process is not available publicly. <a href="mailto:jianghelga@gmail.com">Contact me</a> if you'd like to know more!

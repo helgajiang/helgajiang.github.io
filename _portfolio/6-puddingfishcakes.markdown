@@ -4,7 +4,7 @@ title: PuddingFishCakes / YouTube Channel
 description: Educational art tutorials with over 22 million views
 img: /img/pfc/thumbnail-pfc.png
 ---
-<a href="https://www.youtube.com/user/puddingfishcakes" alt="PuddingFishCakes on YouTube">PuddingFishCakes is a YouTube channel</a> dedicated to the craft of polymer clay sculpting, featuring tutorials and DIY craft projects. The channel has organically grown a 270,000+ subscriber audience with over 24 million video views to date. I wear many hats, including filming, photographing, video editing, Etsy-selling, social-media posting, designing, and of course, polymer clay sculpting. 
+<a href="https://www.youtube.com/user/puddingfishcakes" alt="PuddingFishCakes on YouTube">PuddingFishCakes is a YouTube channel</a> dedicated to the craft of polymer clay sculpting, featuring over 100 tutorials and craft projects. The channel has organically grown a 270,000+ subscriber audience with over 24 million video views to date. I wear many hats, including filming, photographing, video editing, Etsy-selling, social-media posting, designing, and of course, polymer clay sculpting. 
 
 <img class="col three" src="{{ site.baseurl }}/img/pfc/thumbnail-pfc.png" alt="Hack the North Welcome Booklet" title="Hack the North Welcome Booklet"/>
 <div class="col three caption">
@@ -32,7 +32,7 @@ I also wrote a <a href="http://amzn.to/1SmuwjR" alt="Clay Charm Magic!">children
 	<img class="col one" src="{{ site.baseurl }}/img/portfolio-pfc-1.png" alt="Logo" title="PuddingFishCakes Logo"/>
 </div>
 
-The logo was made from sketches in notebooks and later vectorized into Adobe Illustrator. The downfall with the name is that it’s quite long (too long for a <a href="https://twitter.com/pfishcakes">twitter handle</a>, in fact!) so instead of keeping all 16 characters, I just kept the initials to keep it as simple as possible. I also illustrated some vector icons for my channel banner.
+<!--The logo was made from sketches in notebooks and later vectorized into Adobe Illustrator. The downfall with the name is that it’s quite long (too long for a <a href="https://twitter.com/pfishcakes">twitter handle</a>, in fact!) so instead of keeping all 16 characters, I just kept the initials to keep it as simple as possible. I also illustrated some vector icons for my channel banner.-->
 <div class="img_row">
 <img class="col two" src="{{ site.baseurl }}/img/portfolio-pfc-9.gif" alt="Logo" title="PuddingFishCakes Logo"/>
 
@@ -48,7 +48,7 @@ The logo was made from sketches in notebooks and later vectorized into Adobe Ill
 
 
 
-I went with a more organic, flowy, hand-drawn look, since PuddingFishCakes is all about making things with your hands. What’s really amazing is that even though someone could recreate clay projects using my tutorials, each maker’s style will still persist in his or her creations and thus every clay piece turns out unique to the artist!
+<!--I went with a more organic, flowy, hand-drawn look, since PuddingFishCakes is all about making things with your hands. What’s really amazing is that even though someone could recreate clay projects using my tutorials, each maker’s style will still persist in his or her creations and thus every clay piece turns out unique to the artist!-->
 
 
 

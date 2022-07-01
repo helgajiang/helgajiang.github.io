@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook / Advertiser Recommendations Framework
+title: Facebook (Meta) / Advertiser Recommendations Framework
 description: Product Design, Design Systems, UI/UX
 img: /img/thumbnail-fb-framework.png
 ---

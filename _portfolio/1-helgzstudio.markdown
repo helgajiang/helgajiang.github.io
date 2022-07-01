@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Helgz Studio / Contemporary Ceramics
-description: Small Business Owner
-img: /img/helgzstudio/thumbnail-helgzstudio.png
+description: E-Commerce, Marketing Design, Photography
+img: /img/helgzstudio/thumbnail-helgzstudio.gif
 ---
 
 <a href="https://www.helgz.com" alt="Helgz Studio" target="blank">Helgz Studio</a> was launched in 2021 as a passion-driven microbusiness, exploring my creativity in a tactile, hands-on medium. I design contemporary slow-made ceramics that aim to bring moments of stillness into any space.

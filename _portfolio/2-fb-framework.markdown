@@ -5,6 +5,8 @@ description: Product Design, Design Systems, UI/UX
 img: /img/thumbnail-fb-framework.png
 ---
 
+<i>Product Design, Design Systems, UI/UX</i>
+
 <strong>Disclaimer:</strong> These thoughts are my own and do not necessarily represent those of Facebook (Meta).
 
 During my time at Facebook (now known as Meta), I had the opportunity to work alongside a stellar team of designers and engineers. With the support of data science, user research, product management, and org directors, we built a design system for our recommendation products. This effort materialized into a set of guidelines, UI elements, customized components, and a step-by-step framework of building a recommendation.

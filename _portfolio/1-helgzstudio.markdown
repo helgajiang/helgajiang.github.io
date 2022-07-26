@@ -1,41 +1,139 @@
 ---
 layout: post
-title: Helgz Studio / Contemporary Ceramics
-description: E-Commerce, Marketing Design, Photography
+title: Helgz Studio Ceramics / helgz.com
+description: Web Design, E-Commerce, Branding, Marketing Design
 img: /img/helgzstudio/thumbnail-helgzstudio.gif
 ---
 
-<a href="https://www.helgz.com" alt="Helgz Studio" target="blank">Helgz Studio</a> was launched in 2021 as a passion-driven microbusiness, exploring my creativity in a tactile, hands-on medium. I design contemporary slow-made ceramics that aim to bring moments of stillness into any space.
+<i>Web Design, E-Commerce, Branding, Marketing Design</i>
 
-I handle all aspects of the studio, including ceramics production, design, photography, branding collateral, e-commerce, and marketing.
-
-<img class="col three" src="{{ site.baseurl }}/img/helgzstudio/helgz-studio-digital.png" alt="Helgz Studio" title="Helgz Studio"/>
+<img class="col two" src="{{ site.baseurl }}/img/helgzstudio/thumbnail-helgzstudio.gif" alt="Helgz Studio" title="Helgz Studio"/>
+<img class="col one" src="{{ site.baseurl }}/img/helgzstudio/introphone.png" alt="Helgz Studio" title="Helgz Studio ecommerce phone screen"/>
 <div class="col three caption">
 I handle all aspects of the studio, including ceramics production, design, photography, branding collateral, e-commerce, and marketing.</div>
 
-<!--
-<img class="col one" src="{{ site.baseurl }}/img/helgzstudio/camila.jpg" alt="Helgz Studio" title="Helgz Studio"/>
-<img class="col one" src="{{ site.baseurl }}/img/helgzstudio/silas.jpg" alt="Helgz Studio" title="Helgz Studio"/>
-<img class="col one" src="{{ site.baseurl }}/img/helgzstudio/billie.jpg" alt="Helgz Studio" title="Helgz Studio"/>
--->
+<h3>Table of contents</h3>
 
-<img class="col two" src="{{ site.baseurl }}/img/helgzstudio/dragonegg.jpg" alt="Helgz Studio" title="Helgz Studio"/>
+<ol>
+<li>Introduction</li>
+<li>Website Goals</li>
+<li>Target Audience and Brand Overview</li>
+<li>Competitive Research</li>
+<li>User Journey</li>
+<li>Proposal</li>
+<li>Design Details</li>
+<li>Conclusion</li>
+</ol>
+
+<h3>Introduction</h3>
+
+I launched <a href="https://www.helgz.com" alt="Helgz Studio" target="blank">Helgz Studio</a> in 2021 as a passion-driven online business, exploring my creativity with a hands-on medium, while fostering my interests in entrepreneurship in a digital age. At Helgz Studio, I design and create contemporary ceramic pieces that aim to bring moments of stillness and joy into any home. The pieces range from mugs to vases to sculptures, and are each one-of-a-kind.
+
+I handle all aspects of the studio, including ceramics production, design, photography, branding collateral, e-commerce, and marketing.
+
+This case study will walk through how I approached the latest branding design of my e-commerce website, <a href="https://www.helgz.com" alt="Helgz Studio" target="blank">helgz.com</a>.
+
 <img class="col one" src="{{ site.baseurl }}/img/helgzstudio/tabitha.jpg" alt="Helgz Studio" title="Helgz Studio"/>
+<img class="col one" src="{{ site.baseurl }}/img/helgzstudio/dragonegg.jpg" alt="Helgz Studio" title="Helgz Studio"/>
 <img class="col one" src="{{ site.baseurl }}/img/helgzstudio/silas.jpg" alt="Helgz Studio" title="Helgz Studio"/>
 <div class="col three caption">
-A few samples of my ceramic creations.</div>
+Samples of my ceramic products.</div>
 
+<h3>Website Goals</h3>
+
+The goals of the website are to <strong>increase brand awareness</strong> and <strong>drive purchases</strong>.
+
+<h3>Target Audience and Brand Overview</h3>
+
+This section covers context around the target audience and a brief overview of the brand values.
+
+About the <strong>target audience</strong>:
+- They are stylish home-dwellers who place care into the aesthetics in their home.
+- They spend time decorating and designing their living spaces.
+- They are looking to elevate their home by introducing contemporary artistic elements.
+- They value handmade, limited edition, one-of-a-kind items.
+
+The Helgz Studio <strong>brand values</strong> are:
+- <strong>Handmade</strong>: I operate with a small-batch cycle: I create a body of work and release it every few months. It’s important that the audience understands that each product is created using a slow, laborious process, and is one-of-a-kind. Helgz Studio not a big organization nor a factory, and it’s important that the audience is aware of this. 
+- <strong>Personable</strong>: Oftentimes, people can be easily intimidated by the elusive world of art-collecting and art in general. It can be an alienating industry. Being personable is at the heart of my business. I often share thoughts on my creative journey, intentions behind my pieces, behind-the-scenes snippets of the ceramics process, and aim to give my audience a peak behind the curtain.
+- <strong>Well-Designed</strong>: My ceramic pieces are meant to last for many years. It should visually elevate a space and bring joy to the consumer. 
+
+
+<h3>Competitive Research</h3>
+
+Doing competitive research was helpful not only for guiding the design of the website, but also to understand the current market, gain learnings for business operations, and help define my brand at large. What kind of an artist am I? What does my work say about me (aka my brand)? Being mindful of these reactions as I researched other artists making similar work revealed contrasts with my own business values and how I would like the brand to be portrayed. 
+
+I surveyed brands within the online home goods space that fit the target audience. I particularly paid attention to branding styles, website structure, look and feel, and product offerings.
+
+Below are a few of the websites I surveyed, ranging from sculptors to dinnerware-makers to lamp designers:
+- Simone Bodmer-Turner
+- Eny Lee Parker
+- Pepperstone Ceramics
+- East Fork Pottery
+- Wooj Design
+
+<strong>Some takeaways</strong>
+
+After surveying multiple brands, I noticed a few categories with distinct visual elements:
+
+- <strong>Luxury</strong>: Some artist websites seem intimidating by having an elevated, luxury feel. Visual elements such as a monochrome colour palette (often greyscale), cinematic photography, and serif fonts create a timeless feel. These brands tend to target higher-paying audiences such as art collectors and homeowners, with products in the high hundreds to thousands. Simone Bodmer-Turner’s work is a great example.
+
+- <strong>Trendy</strong>: Other brands were more “trendy” and approachable, utilizing bright colours and eccentric typography. These products are in the more affordable range, with most products under $100, and target a younger audience.
+
+- <strong>Commercial</strong>: Others are more “commercial”, like wooj.design. These are items have more industrially manufactured products, but still include an artisan’s touch. 
+
+I wanted something that sat between Luxury and Trendy, and avoiding Commercial, as it detracts from the handmade value of my products.
+
+<h3>User Journey</h3>
+
+Where are people coming from, and where are they going?
+- I use Instagram as the primary form of communication, where I announce new work and post content for marketing campaigns. 92% of my sales are directed from Instagram. It’s where people find me, and where I market my work. 
+- Other avenues include word of mouth, referrals, and other visually-focused social media platforms such as Pinterest and TikTok.
+
+<img class="col three" src="{{ site.baseurl }}/img/helgzstudio/userjourney.png" alt="Helgz Studio Typical User Journey" title="Helgz Studio Typical User Journey"/>
+<div class="col three caption">A typical user journey.</div>
+
+
+<h3>Proposal</h3>
+
+Since my site is hosted on Shopify, it was easy to handle checkout functionality (from finding the item, to adding to cart and purchasing it) by leveraging built-in Shopify tools. I thus focused my energy on the landing page of my site, site structure, and directing users to the Shop section. 
+
+With this in mind, I constructed a simple narrative for the landing page:
+1. Start with an eye-catching visual to immediately to hook visitors in and show products in a compelling manner (brand awareness)
+2. Follow with a quick blurb that describes the work and the artist (brand awareness)
+3. Build trust with an “As seen on” section, showcasing magazines and brands that the sculptures have been featured or worked with. (brand awareness)
+4. Feature products, direct to shop (purchase)
+5. Social media feed (brand awareness)
+
+The landing page should include ample entry points into Shop to drive purchases.
+
+<img class="col three" src="{{ site.baseurl }}/img/helgzstudio/sitewireframe.png" alt="Helgz Studio Website Wireframe" title="Website Wireframe"/>
+
+Other pages on the site are meant to host supplementary information for visitors who would like to dive deeper into learning about the brand. They include:
+- Meet the Artist
+- Contact
+
+<h3>Design Details</h3>
+You can experience the final design here: <a href="https://www.helgz.com" alt="Helgz Studio" target="blank">helgz.com</a>.
+
+<h3>Metrics and Testing</h3>
+
+Coming soon!
+
+<h3>Conclusion</h3>
+My brand is always evolving as I gain more learnings in my business, and it is imperative that the design evolves with it. I am always making small tweaks to the website with every new campaign, as each body of work I create has its own unique style and message. I’m always updating and iterating as I gain more data and experience.
+
+
+<!--
 <img class="col three" src="{{ site.baseurl }}/img/helgzstudio/coffeetable.jpg" alt="Helgz Studio" title="Helgz Studio"/>
 <div class="col three caption">
 My most ambitious project: a modular coffee table. Each leg of the table is hand-built using ceramic slabs.</div>
+-->
 
 
 <!--
 <img class="col one" src="{{ site.baseurl }}/img/helgzstudio/woi-0.jpg" alt="The World of Interiors Magazine Cover June 2022" title="The World of Interiors Magazine Cover June 2022"/>
 <img class="col one" src="{{ site.baseurl }}/img/helgzstudio/woi-1.jpg" alt="The World of Interiors Magazine Featureatue June 2022" title="The World of Interiors Magazine Feature June 2022"/>
--->
-
-
 
 <div class="no-caption">
 	<img class="col three" src="{{ site.baseurl }}/img/helgz-postcard.png" alt="Packaging Postcards" title="Postcards"/>
@@ -51,6 +149,7 @@ I'm always looking for ways to improve the collector's experience: I design bran
 
 <div class="col three caption">
 Featured in Condé Nast's <a href="https://www.condenast.co.uk/world-of-interiors/" target="_blank"><i>The World of Interiors Magazine</i></a>, Top of the Pots feature of Summer 2022</div>
+-->
 
 
 

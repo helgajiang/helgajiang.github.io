@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook / Ads Platform Internal Culture
+title: Facebook (Meta) / Internal Culture
 description: Creative Direction, Illustration, Print Design
 img: /img/facebook/thumbnail-fb-culture.png
 ---

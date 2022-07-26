@@ -1,61 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <script src="https://use.fontawesome.com/abe5e8bc5d.js"></script>
-    <title>Helgz Studio Ceramics / helgz.com</title>
-    <meta name="description" content="Personal website for Helga Jiang.
-">
-
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://localhost:4000/portfolio/1-helgzstudio/">
-    <link rel="icon" 
-      type="image/png" 
-      href="/img/favicon.png" />
-
-</head>
-
-  <body>
-
-    <header class="site-header Helgz Studio Ceramics / helgz.com">
-
-  <div class="wrapper">
-
-    <nav class="site-nav">
-
-      <div class="trigger">
-<!--         Helga Jiang instead of home -->
-        <a class="page-link" href="/">Back to Home</a>
-
-        
-          
-        
-          
-        
-
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">Helgz Studio Ceramics / helgz.com</h1>
-<!--    <p class="post-meta">July 26, 2022 — 17:19</p>-->
-  </header>
-
-  <article class="post-content">
-    <p><i>Web Design, E-Commerce, Branding, Marketing Design</i></p>
+I"�&<p><i>Web Design, E-Commerce, Branding, Marketing Design</i></p>
 
 <p><img class="col two" src="/img/helgzstudio/thumbnail-helgzstudio.gif" alt="Helgz Studio" title="Helgz Studio" />
 <img class="col one" src="/img/helgzstudio/introphone.png" alt="Helgz Studio" title="Helgz Studio ecommerce phone screen" /></p>
@@ -107,9 +50,9 @@ Samples of my ceramic products.</div>
 
 <p>The Helgz Studio <strong>brand values</strong> are:</p>
 <ul>
-  <li><strong>Handmade</strong>: I operate with a small-batch cycle: I create a body of work and release it every few months. It’s important that the audience understands that each product is created using a slow, laborious process, and is one-of-a-kind. Helgz Studio not a big organization nor a factory, and it’s important that the audience is aware of this.</li>
-  <li><strong>Personable</strong>: Oftentimes, people can be easily intimidated by the elusive world of art-collecting and art in general. It can be an alienating industry. Being personable is at the heart of my business. I often share thoughts on my creative journey, intentions behind my pieces, behind-the-scenes snippets of the ceramics process, and aim to give my audience a peak behind the curtain.</li>
-  <li><strong>Well-Designed</strong>: My ceramic pieces are meant to last for many years. It should visually elevate a space and bring joy to the consumer.</li>
+  <li><strong>Handmade</strong>. I operate with a small-batch cycle: I create a body of work and release it every few months. It’s important that the audience understands that each product is created using a slow, laborious process, and is one-of-a-kind. Helgz Studio not a big organization nor a factory, and it’s important that the audience is aware of this.</li>
+  <li><strong>Personable</strong>. Oftentimes, people can be easily intimidated by the elusive world of art-collecting and art in general. It can be an alienating industry. Being personable is at the heart of my business. I often share thoughts on my creative journey, intentions behind my pieces, behind-the-scenes snippets of the ceramics process, and aim to give my audience a peak behind the curtain.</li>
+  <li><strong>Well-Designed</strong>. My ceramic pieces are meant to last for many years. It should visually elevate a space and bring joy to the consumer.</li>
 </ul>
 
 <h3>Competitive Research</h3>
@@ -216,23 +159,4 @@ Featured in Condé Nast's <a href="https://www.condenast.co.uk/world-of-interior
 -->
 
 <p><br /><br /><br /></p>
-
-  </article>
-
-</div>
-
-      </div>
-    </div>
-
-    <footer class="site-footer">
-
-  <div class="wrapper">
-      <p>Made with <i class="fa fa-heart-o"></i>. This site is coded by Helga Jiang, powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, and hosted on <a href="https://github.com" target="_blank">Github Pages</a>.</p>
-  </div>
-</footer>
-
-
-  </body>
-    
-
-</html>
+:ET

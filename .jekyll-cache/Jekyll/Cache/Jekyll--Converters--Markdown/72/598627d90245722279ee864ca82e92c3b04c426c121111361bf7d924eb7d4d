@@ -1,4 +1,4 @@
-I"'<p><i>Web Design, E-Commerce, Branding, Marketing Design</i></p>
+I"P(<p><i>Web Design, E-Commerce, Branding, Marketing Design</i></p>
 
 <p><img class="col two" src="/img/helgzstudio/thumbnail-helgzstudio.gif" alt="Helgz Studio" title="Helgz Studio" />
 <img class="col one" src="/img/helgzstudio/introphone.png" alt="Helgz Studio" title="Helgz Studio ecommerce phone screen" /></p>
@@ -51,8 +51,8 @@ Samples of my ceramic products.</div>
 <p>The Helgz Studio <strong>brand values</strong> are:</p>
 <ul>
   <li><strong>Handmade</strong>: I operate with a small-batch cycle: I create a body of work and release it every few months. It’s important that the audience understands that each product is created using a slow, laborious process, and is one-of-a-kind. Helgz Studio not a big organization nor a factory, and it’s important that the audience is aware of this.</li>
-  <li><strong>Personable</strong>. Oftentimes, people can be easily intimidated by the elusive world of art-collecting and art in general. It can be an alienating industry. Being personable is at the heart of my business. I often share thoughts on my creative journey, intentions behind my pieces, behind-the-scenes snippets of the ceramics process, and aim to give my audience a peak behind the curtain.</li>
-  <li><strong>Well-Designed</strong>. My ceramic pieces are meant to last for many years. It should visually elevate a space and bring joy to the consumer.</li>
+  <li><strong>Personable</strong>: Oftentimes, people can be easily intimidated by the elusive world of art-collecting and art in general. It can be an alienating industry. Being personable is at the heart of my business. I often share thoughts on my creative journey, intentions behind my pieces, behind-the-scenes snippets of the ceramics process, and aim to give my audience a peak behind the curtain.</li>
+  <li><strong>Well-Designed</strong>: My ceramic pieces are meant to last for many years. It should visually elevate a space and bring joy to the consumer.</li>
 </ul>
 
 <h3>Competitive Research</h3>
@@ -63,26 +63,26 @@ Samples of my ceramic products.</div>
 
 <p>Below are a few of the websites I surveyed, ranging from sculptors to dinnerware-makers to lamp designers:</p>
 <ul>
-  <li>Simone Bodmer-Turner</li>
-  <li>Eny Lee Parker</li>
-  <li>Pepperstone Ceramics</li>
-  <li>East Fork Pottery</li>
-  <li>Wooj Design</li>
+  <li><a href="https://simonebodmerturner.com/" alt="Simone Bodmer-Turner" target="blank">Simone Bodmer-Turner</a></li>
+  <li><a href="https://www.enyleeparker.com/" alt="Eny Lee Parker" target="blank">Eny Lee Parker</a></li>
+  <li><a href="https://pepperstoneceramics.com/" alt="Pepper Stone Ceramics" target="blank">Pepper Stone Ceramics</a></li>
+  <li><a href="https://www.eastfork.com/" alt="East Fork Pottery" target="blank">East Fork Pottery</a></li>
+  <li><a href="https://wooj.design/" alt="Wooj Design" target="blank">Wooj Design</a></li>
 </ul>
 
-<p><strong>Some takeaways</strong></p>
+<p><strong>Some takeaways…</strong></p>
 
 <p>After surveying multiple brands, I noticed a few categories with distinct visual elements:</p>
 
 <ul>
   <li>
-    <p><strong>Luxury</strong>: Some artist websites seem intimidating by having an elevated, luxury feel. Visual elements such as a monochrome colour palette (often greyscale), cinematic photography, and serif fonts create a timeless feel. These brands tend to target higher-paying audiences such as art collectors and homeowners, with products in the high hundreds to thousands. Simone Bodmer-Turner’s work is a great example.</p>
+    <p><strong>Luxury</strong>: Some artist websites seemed intimidating by having an elevated, luxury feel. Visual elements such as a monochrome colour palette (often greyscale), cinematic photography, and serif fonts create a timeless feel. These brands tend to target higher-paying audiences such as art collectors and homeowners, with products in the high hundreds to thousands. Simone Bodmer-Turner’s work is a great example.</p>
   </li>
   <li>
     <p><strong>Trendy</strong>: Other brands were more “trendy” and approachable, utilizing bright colours and eccentric typography. These products are in the more affordable range, with most products under $100, and target a younger audience.</p>
   </li>
   <li>
-    <p><strong>Commercial</strong>: Others are more “commercial”, like wooj.design. These are items have more industrially manufactured products, but still include an artisan’s touch.</p>
+    <p><strong>Commercial</strong>: Others were more “commercial”, like wooj.design. They sell products that are more industrially manufactured, but still include an artisan’s touch.</p>
   </li>
 </ul>
 
@@ -101,7 +101,7 @@ Samples of my ceramic products.</div>
 
 <h3>Proposal</h3>
 
-<p>Since my site is hosted on Shopify, it was easy to handle checkout functionality (from finding the item, to adding to cart and purchasing it) by leveraging built-in Shopify tools (no need to reinvent the wheel). I thus focused my energy on the landing page of my site, site structure, and directing users to the Shop section.</p>
+<p>Since my site is hosted on Shopify, it was easy to handle checkout functionality (from finding the item, to adding to cart and purchasing it) by leveraging built-in Shopify tools. I thus focused my energy on the landing page of my site, site structure, and directing users to the Shop section.</p>
 
 <p>With this in mind, I constructed a simple narrative for the landing page:</p>
 <ol>
@@ -123,14 +123,14 @@ Samples of my ceramic products.</div>
 </ul>
 
 <h3>Design Details</h3>
-<p>You can see the final design here: <a href="https://www.helgz.com" alt="Helgz Studio" target="blank">helgz.com</a>.</p>
+<p>You can experience the final design here: <a href="https://www.helgz.com" alt="Helgz Studio" target="blank">helgz.com</a>.</p>
 
 <h3>Metrics and Testing</h3>
 
 <p>Coming soon!</p>
 
 <h3>Conclusion</h3>
-<p>My brand is always evolving as I gain more learnings in my business, and it is imperative that the design evolves with it. I am always making small tweaks to the website with every new campaign, as each body of work I create has its own unique style and message. I’m always updating and iterating as I gain more data and experience.</p>
+<p>My brand is always evolving as I gain more learnings in my business, and it is imperative that the design evolves with it. I am always making small tweaks to the website with every new campaign, as each body of work I create has its own unique style and message.</p>
 
 <!--
 <img class="col three" src="/img/helgzstudio/coffeetable.jpg" alt="Helgz Studio" title="Helgz Studio"/>

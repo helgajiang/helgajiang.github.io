@@ -49,14 +49,14 @@ This section covers context around the target audience and a brief overview of t
 
 About the <strong>target audience</strong>:
 - They are stylish home-dwellers who place care into the aesthetics in their home.
-- They spend time decorating and designing their living spaces.
+- They actively spend time and effort decorating and designing their living spaces.
 - They are looking to elevate their home by introducing contemporary artistic elements.
 - They value handmade, limited edition, one-of-a-kind items.
 
 The Helgz Studio <strong>brand values</strong> are:
 - <strong>Handmade</strong>: I operate with a small-batch cycle: I create a body of work and release it every few months. It’s important that the audience understands that each product is created using a slow, laborious process, and is one-of-a-kind. Helgz Studio not a big organization nor a factory, and it’s important that the audience is aware of this. 
-- <strong>Personable</strong>: Oftentimes, people can be easily intimidated by the elusive world of art-collecting and art in general. It can be an alienating industry. Being personable is at the heart of my business. I often share thoughts on my creative journey, intentions behind my pieces, behind-the-scenes snippets of the ceramics process, and aim to give my audience a peak behind the curtain.
-- <strong>Well-Designed</strong>: My ceramic pieces are meant to last for many years. It should visually elevate a space and bring joy to the consumer. 
+- <strong>Personable</strong>: Oftentimes, people can be easily intimidated by the elusive world of art-collecting. It can be an alienating industry for a consumer to enter. Being personable is at the heart of my business. I often share thoughts on my creative journey, intentions behind my pieces, behind-the-scenes snippets of the ceramics process, and aim to give my audience a peak behind the curtain.
+- <strong>Well-Designed</strong>: My ceramic pieces are meant to last for many years. It should be of high quality, visually elevate a space, and bring joy to the consumer.
 
 
 <h3>Competitive Research</h3>
@@ -66,23 +66,23 @@ Doing competitive research was helpful not only for guiding the design of the we
 I surveyed brands within the online home goods space that fit the target audience. I particularly paid attention to branding styles, website structure, look and feel, and product offerings.
 
 Below are a few of the websites I surveyed, ranging from sculptors to dinnerware-makers to lamp designers:
-- Simone Bodmer-Turner
-- Eny Lee Parker
-- Pepperstone Ceramics
-- East Fork Pottery
-- Wooj Design
+- <a href="https://simonebodmerturner.com/" alt="Simone Bodmer-Turner" target="blank">Simone Bodmer-Turner</a>
+- <a href="https://www.enyleeparker.com/" alt="Eny Lee Parker" target="blank">Eny Lee Parker</a>
+- <a href="https://pepperstoneceramics.com/" alt="Pepper Stone Ceramics" target="blank">Pepper Stone Ceramics</a>
+- <a href="https://www.eastfork.com/" alt="East Fork Pottery" target="blank">East Fork Pottery</a>
+- <a href="https://wooj.design/" alt="Wooj Design" target="blank">Wooj Design</a>
 
-<strong>Some takeaways</strong>
+<strong>Some takeaways...</strong>
 
 After surveying multiple brands, I noticed a few categories with distinct visual elements:
 
-- <strong>Luxury</strong>: Some artist websites seem intimidating by having an elevated, luxury feel. Visual elements such as a monochrome colour palette (often greyscale), cinematic photography, and serif fonts create a timeless feel. These brands tend to target higher-paying audiences such as art collectors and homeowners, with products in the high hundreds to thousands. Simone Bodmer-Turner’s work is a great example.
+- <strong>Luxury</strong>: Some websites seemed intimidating by having an elevated, luxury feel. Visual elements such as a monochrome colour palette (often greyscale), cinematic photography, and serif fonts create a timeless feel. These brands tend to target higher-paying audiences such as art collectors and luxury homeowners, with products in the high hundreds to thousands. Simone Bodmer-Turner’s work is a great example.
 
 - <strong>Trendy</strong>: Other brands were more “trendy” and approachable, utilizing bright colours and eccentric typography. These products are in the more affordable range, with most products under $100, and target a younger audience.
 
-- <strong>Commercial</strong>: Others are more “commercial”, like wooj.design. These are items have more industrially manufactured products, but still include an artisan’s touch. 
+- <strong>Commercial</strong>: Others were more “commercial”, like wooj.design. They sell products that are more industrially manufactured, but still include an artisan’s touch. 
 
-I wanted something that sat between Luxury and Trendy, and avoiding Commercial, as it detracts from the handmade value of my products.
+I wanted a visual language that sat between Luxury and Trendy, and avoiding Commercial, as it detracts from the handmade value of my products.
 
 <h3>User Journey</h3>
 
@@ -121,7 +121,7 @@ You can experience the final design here: <a href="https://www.helgz.com" alt="H
 Coming soon!
 
 <h3>Conclusion</h3>
-My brand is always evolving as I gain more learnings in my business, and it is imperative that the design evolves with it. I am always making small tweaks to the website with every new campaign, as each body of work I create has its own unique style and message. I’m always updating and iterating as I gain more data and experience.
+My brand is always evolving as I gain more learnings in my business, and it is imperative that the design evolves with it. I am always making small tweaks to the website with every new campaign, as each body of work I create has its own unique style and message.
 
 
 <!--

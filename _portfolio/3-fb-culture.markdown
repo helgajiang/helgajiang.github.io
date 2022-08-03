@@ -2,7 +2,7 @@
 layout: post
 title: Facebook (Meta) / Internal Culture
 description: Creative Direction, Illustration, Print Design
-img: /img/facebook/thumbnail-fb-culture.png
+img: /img/facebook/thumbnail-fb-culture.gif
 ---
 
 <i>Creative Direction, Illustration, Print Design</i>

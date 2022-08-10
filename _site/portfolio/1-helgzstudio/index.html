@@ -51,7 +51,7 @@
 
   <header class="post-header">
     <h1 class="post-title">Helgz Studio Ceramics / helgz.com</h1>
-<!--    <p class="post-meta">August 3, 2022 — 19:42</p>-->
+<!--    <p class="post-meta">August 10, 2022 — 19:22</p>-->
   </header>
 
   <article class="post-content">
@@ -226,9 +226,47 @@ Featured in Condé Nast's <a href="https://www.condenast.co.uk/world-of-interior
 
     <footer class="site-footer">
 
+<!--
   <div class="wrapper">
       <p>Made with <i class="fa fa-heart-o"></i>. This site is coded by Helga Jiang, powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, and hosted on <a href="https://github.com" target="_blank">Github Pages</a>.</p>
   </div>
+-->
+    <style>
+.scroll-left {
+ height: 50px;	
+ overflow: hidden;
+ position: relative;
+/* background: yellow;*/
+/* color: orange;*/
+/* border: 1px solid orange;*/
+}
+.scroll-left p {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+ transform:translateX(100%);
+ /* Apply animation to this element */
+ animation: scroll-left 30s linear infinite;
+}
+/* Move it (define the animation) */
+@keyframes scroll-left {
+ 0%   {
+ transform: translateX(100%); 		
+ }
+ 100% {
+ transform: translateX(-100%); 
+ }
+}
+</style>
+
+<div class="scroll-left">
+<p>Made with <i class="fa fa-heart-o"></i>. This site is coded by Helga Jiang, powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, and hosted on <a href="https://github.com" target="_blank">Github Pages</a>.</p>
+</div>
+
 </footer>
 
 

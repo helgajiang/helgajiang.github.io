@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Mailchimp / Social Sharing Redesign
-description: Product Design, UI/UX Design
+description: Product Design, Interaction Design
 img: /img/thumbnail-mailchimp-social.png
 ---
+
+<i>Product Design, Interaction Design</i>
 
 <strong>Disclaimer:</strong> These thoughts are my own and do not necessarily represent those of Mailchimp.
 
@@ -36,4 +38,8 @@ The exploration stage of the design process involved working with user researche
 
 <h3>The Solution</h3>
 
-After multiple iterations, we came to a solution which was fully prototyped, user tested, and submitted to engineering. Unfortunately, the final design is not yet public, but I would love to chat about it privately. <a href="mailto:jianghelga@gmail.com">Contact me</a> if you'd like to know more!
+After multiple iterations, we came to a solution which was fully prototyped, user tested, and submitted to engineering. See below for an overview of the final design.
+
+<img class="col three" src="{{ site.baseurl }}/img/mailchimp/social-posting.gif" alt="Mailchimp Final Flow" title="Final Flow"/>
+<div class="col three caption">
+A quick look at the final user flow.</div>

@@ -14,6 +14,6 @@ For the Human-Computer Interaction Lab at the University of Waterloo, I designed
 My favourite part of this project was designing a compelling splash page illustration to bring visual interest to the website and highlight elements of curiousity, play, and learning.
 </div>
 
-<img class="col three" src="{{ site.baseurl }}/img/hci-mocks.png" alt="HCI mockups" title="Mockups overview"/>
+<img class="col three" src="{{ site.baseurl }}/img/HCI-illo/thumbnail_hciillo.png" alt="HCI mockups" title="Mockups overview"/>
 <div class="col three caption">
-A rough overview of the website design.</div>
+The landing page of the website design.</div>

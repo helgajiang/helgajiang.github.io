@@ -79,7 +79,7 @@ A sample of a popover card design, included as a critical component in the final
 
 
 <h3>The Results & Takeaways</h3>
-After the framework was complete, we saw a significant increase in productivity with integrating new recommendations into the Ads Manager platform. The updated flows also saw neutral to positive user retention.
+After the framework was complete, we saw a <strong>near double increase in productivity</strong> with integrating new recommendations into the Ads Manager platform. The updated flows also saw neutral to positive user retention. In fact, the popover card component (showcased above) resulted in a <strong>20% increase</strong> in retention after only a month.
 
 Some personal takeaways:
 <ul>

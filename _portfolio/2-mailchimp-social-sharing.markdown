@@ -1,19 +1,19 @@
 ---
 layout: post
-title: MailChimp
-description: Social sharing redesign
+title: Mailchimp / Social Sharing Redesign
+description: Product Design, UI/UX Design
 img: /img/thumbnail-mailchimp-social.png
 ---
 
-<strong>Disclaimer:</strong> These thoughts are my own and do not necessarily represent those of MailChimp.
+<strong>Disclaimer:</strong> These thoughts are my own and do not necessarily represent those of Mailchimp.
 
-During my summer internship at <a href="https://mailchimp.com/" target="_blank">MailChimp</a>, I had the opportunity to contribute to a major redesign of MailChimp's #1 most used feature -- email campaign creation. My task was to re-imagine the social share feature. 
+During my summer internship at <a href="https://mailchimp.com/" target="_blank">Mailchimp</a>, I had the opportunity to contribute to a major redesign of Mailchimp's #1 most used feature: email campaign creation. My task was to re-imagine the social share feature. 
 
 <h3>The Task</h3>
 
 This is what the feature originally looked like:
 
-<img class="col three explore" src="{{ site.baseurl }}/img/mailchimp-social-orig.png" alt="Original MailChimp social sharing feature" title="MailChimp Social Sharing Original"/>
+<img class="col three explore" src="{{ site.baseurl }}/img/mailchimp-social-orig.png" alt="Original MailChimp social sharing feature" title="Mailchimp Social Sharing Original"/>
 
 The functionality is simple; all the user can really do is add some text to their Twitter or Facebook post. With Facebook in particular, the campaign URL (this is the automatic link that MailChimp sets up where the email lives on the web) is automatically attached to the post, with no customization available for the user. 
 

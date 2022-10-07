@@ -69,11 +69,14 @@ We also updated all existing recommendation flows to the new framework, which ar
 Sample of high-level flows that were defined.</div>
 
 
-Along the way, my team advocated for UX improvements wherever we could. Among other components, I designed and pioneered a unique UI solution for recommendation cards that live in the Ads Manager table. This was a significant improvement to the user experience, proven through usability research and later through data, seeing a stat-sig increase in user retention. See below for details.
+Along the way, my team advocated for UX improvements wherever we could. Among other components, I designed and pioneered a unique UI solution for recommendation cards that live in the Ads Manager table. This was a significant improvement to the user experience, proven through usability research and later through data, seeing a stat-sig increase in user retention. See below for some detailed design artifacts.
 
 <img class="col three explore" src="{{ site.baseurl }}/img/facebook/facebook-intablecard.png" alt="Facebook Recommendations Card" title="Facebook Recommendations Card"/>
 
+<img class="col three" src="{{ site.baseurl }}/img/facebook/guidancecardbefore.gif" alt="Facebook Recommendations Framework Screenshot" title="Facebook Recommendations Framework Screenshot"/>
+
 <img class="col three" src="{{ site.baseurl }}/img/facebook/fb-framework-screenshot.png" alt="Facebook Recommendations Framework Screenshot" title="Facebook Recommendations Framework Screenshot"/>
+<!--<img class="col three" src="{{ site.baseurl }}/img/facebook/splitfilter.gif" alt="Facebook Recommendations Framework Screenshot" title="Facebook Recommendations Framework Screenshot"/>-->
 <div class="col three caption">
 A sample of a popover card design, included as a critical component in the final framework.</div>
 
